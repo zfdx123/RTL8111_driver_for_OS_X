@@ -30,6 +30,8 @@
 			<string>com.insanelymac.${PRODUCT_NAME:rfc1034identifier}</string>
 			<key>Driver Parameters</key>
 			<dict>
+				<key>disableMSI</key>
+				<false/>
 				<key>disableASPM</key>
 				<true/>
 				<key>enableCSO6</key>
